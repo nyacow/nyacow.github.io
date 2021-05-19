@@ -1,7 +1,10 @@
-theme: jekyll-theme-midnight
+# basic options
 
-#basic options
-title: Nyacow's unoriginal project ideas
+title: Nyacow's unoriginal ideas
 author: Nyacow
-description: very unoriginal
 email: Chris.lo@uconn.edu
+Description: unoriginal
+
+# Build Settings
+markdown: Kramdown
+theme: minima
